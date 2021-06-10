@@ -1,0 +1,38 @@
+_repo: Lives-of-the-most-eminent-literary-and-scientific-men-of-France-Vol-2-of-2_65361
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shelley, Mary Wollstonecraft
+    aliases:
+    - Shelley, Mary W.
+    - Shelley, Mary Wollstonecraft Godwin
+    birthdate: 1797
+    deathdate: 1851
+    gutenberg_agent_id: '61'
+    url: http://www.gutenberg.org/2009/agents/61
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
+  editor:
+    agent_name: Lardner, Dionysius
+    birthdate: 1793
+    deathdate: 1859
+    gutenberg_agent_id: '41766'
+    url: http://www.gutenberg.org/2009/agents/41766
+    wikipedia: https://en.wikipedia.org/wiki/Dionysius_Lardner
+description: ''
+gutenberg_issued: '2021-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- Biography'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Voltaire -- Rousseau -- Condorcet -- Mirabeau -- Madame Roland --
+  Madame de Staël.
+title: Lives of the most eminent literary and scientific men of France, Vol. 2 (of
+  2)
+url: http://www.gutenberg.org/ebooks/65361
